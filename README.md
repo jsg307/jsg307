@@ -8,7 +8,9 @@ Java · Spring 기반의 서버 개발과 데이터 구조에 관심이 있습�
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jsg307&show_icons=true&theme=radical)
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsg307&layout=compact)
+-->
 
 </div>
 
