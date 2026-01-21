@@ -37,3 +37,4 @@ Java · Spring 기반의 서버 개발과 데이터 구조에 관심이 있습�
 ## ✨ Sample
 ```java
 System.out.println("Hello, World!");
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsg307)
