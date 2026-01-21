@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=260&section=header&text=반갑습니다!&fontSize=80)
-
 ## 👋 About Me
 백엔드 개발자를 목표로 학습 중입니다.  
 Java · Spring 기반의 서버 개발과 데이터 구조에 관심이 있습니다.
